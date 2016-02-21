@@ -10,8 +10,8 @@ npm start
 
 ### List Of Components (as of now)
 	- [*] Buttons 
-	- [] Columns
-	- [] Column
+	- [*] Columns
+	- [*] Column
 	- [] NavBar
 	- [] NavBarItem
 	- [] Input
