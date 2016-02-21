@@ -1,4 +1,4 @@
-# react-boilerplate
+# Rulma
 
 React + Bulma
 
